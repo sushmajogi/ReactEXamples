@@ -17,3 +17,4 @@ function showUserInfo(user){
   displayUser(showUser(user))
 
   // seperates data Formatting from   UI rendering.
+// this is show cased allwaya

@@ -1,4 +1,5 @@
 
+ // destructuring the code was the best option.
 function displayUser(user){
  console.log( user.name);
  console.log(user.age);

@@ -12,3 +12,4 @@ function greet(name = 'Guest')
 }
  // use default parameters and template literals
   // shorter cleaner and more idiomatic ES6
+   // template literals
