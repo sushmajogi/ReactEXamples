@@ -1,4 +1,4 @@
-
+//ArrayLookup for matching scenario.
 function checkStatus(status){
     if(status === 'success' || status === 'ok' || status === 'done')
     {
